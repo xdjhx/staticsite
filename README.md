@@ -1,0 +1,2 @@
+# staticsite
+djh static site
